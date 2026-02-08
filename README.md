@@ -1,16 +1,18 @@
-👋 Hi! I’m Ashish Krishna, a B.Tech CSE student passionate about solving real-world problems with code.  
-💻 **Tech Stack**: Python | Java | JavaScript | PHP | C/C++ | HTML/CSS (Tailwind)  
-🤖 **Exploring**: AI/ML | Chatbots | Automation | Open-Source  
-🔧 **Building**: Practical tools for students and small businesses (WhatsApp bots, productivity scripts, and more!).  
+# 💫 About Me:
+# 👋 Hi, I'm Ashish Krishna<br><br>🚀 **Full‑Stack JavaScript Developer | MERN Stack | Open‑Source & GSoC 2026 Aspirant**<br><br>I’m a Computer Science student from Kerala, India, focused on building **real‑world, scalable web applications** and positioning myself as an **elite full‑stack developer**. I enjoy turning ideas into products, optimizing systems, and learning how things work under the hood.<br><br>---<br><br>## 🧠 What I Do<br><br>* 🌐 Build full‑stack web apps using **MongoDB, Express, React, Node.js**<br>* 🔧 Fix, optimize, and refactor existing web applications<br>* 🤖 Build AI‑powered tools & chatbots<br>* ⚙️ Work with REST APIs, JWT auth, dashboards, and databases<br>* 🌱 Actively contributing to **Open Source** (targeting **GSoC 2026**)<br><br>---<br><br>## 📌 Featured Projects<br><br>### 🔋 AI‑Powered Smart Home Energy Optimizer<br><br>* Tracks and analyzes electricity usage<br>* Predicts unnecessary consumption using AI logic<br>* Web dashboard for real‑time monitoring<br><br>### ♻️ AI Recycling Guide<br><br>* Helps users dispose waste correctly<br>* Uses APIs + AI logic for smart recommendations<br><br>### 🌱 Digital Platform for Composting & Waste Management<br><br>* Role‑based dashboards (User / Expert / Admin)<br>* Service listings & location‑based filtering<br>* Built with PHP, MySQL, Tailwind CSS, JavaScript<br><br>*(More projects coming soon — building in public)*<br><br>---<br><br>## 🎯 Current Focus<br><br>* Deep dive into **MERN stack (production‑level)**<br>* Writing clean, scalable backend code<br>* Contributing to open‑source JavaScript projects<br>* Preparing strategically for **Google Summer of Code 2026**<br><br>---<br><br>## 📊 GitHub Goals<br><br>* Consistent commits (quality > quantity)<br>* Meaningful open‑source contributions<br>* Well‑documented, real‑world projects
 
-🚀 **Current Focus**:  
-- Learning API integration (Twilio, OpenAI) for automation projects.  
-- Contributing to open-source projects that empower education and local businesses.  
 
-📫 **Let’s Connect**:  
-- [LinkedIn]www.linkedin.com/in/ashish888
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish888) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishkrishnams@gmail.com) 
 
-- Open to collabs, internships, and freelance gigs!  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashishkrishna888&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashishkrishna888&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrishna888&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-🌟 **Quote I Code By**:  
-*“Automate the boring stuff. Build the impactful stuff.”*
+---
+[![](https://visitcount.itsvg.in/api?id=ashishkrishna888&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
